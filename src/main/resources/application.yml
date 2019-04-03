@@ -1,0 +1,7 @@
+server:
+  port: 8086
+#spring:
+#  security:
+#    user:
+#      name: 123
+#      password: 123
